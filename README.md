@@ -44,4 +44,4 @@ When only small pictures are allowed (like favicons), you can choose the smaller
 
 ## License
 
-We still need to choose a proper license for this (see [#1](https://github.com/webpack/media/issues/1)). Until then, it is not permitted to use anything here outside the webpack project.
+The logo and the brand name are **not MIT licensed**. Please check [our LICENSE](https://github.com/webpack/media/blob/master/LICENSE) for usage guidelines.
