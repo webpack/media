@@ -28,13 +28,13 @@ In situations where only square-sized pictures are allowed (like avatars), you m
 
 <img src="/logo/icon-big.png?raw=true" width="250" alt="icon big example">
 
-[png](/logo/icon-big.png.png)
+[png](/logo/icon-big.png)
 
 When only small pictures are allowed (like favicons), you can choose the smaller icon:
 
 <img src="/logo/icon-small.png?raw=true" width="50" alt="icon small example">
 
-[png](/logo/icon-small.png.png)
+[png](/logo/icon-small.png)
 
 *The icon is designed to be used in space-constrained areas. If possible, please prefer icon + text.*
 
