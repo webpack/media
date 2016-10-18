@@ -22,21 +22,25 @@ For dark backgrounds, you can use the negative version of the logo:
 
 [svg](/logo/logo-on-dark-bg.svg) | [png](/logo/logo-on-dark-bg.png) | [jpg](/logo/logo-on-dark-bg.jpg)
 
-## Icons
+## Icon only
 
-In situations where only square-sized pictures are allowed (like avatars), you may also use the big icon:
+**The icon is designed to be used in layout-constrained areas. If possible, please prefer icon + text.**
 
-<img src="/logo/icon-big.png?raw=true" width="250" alt="icon big example">
+<img src="/logo/icon.png?raw=true" width="250" alt="icon example">
 
-[png](/logo/icon-big.png)
+[svg](/logo/icon.svg) | [png](/logo/icon.png) | [png](/logo/icon.jpg)
 
-When only small pictures are allowed (like favicons), you can choose the smaller icon:
+Square-sized icon (like avatars):
 
-<img src="/logo/icon-small.png?raw=true" width="50" alt="icon small example">
+<img src="/logo/icon-square-big.png?raw=true" width="250" alt="icon square big example">
 
-[png](/logo/icon-small.png)
+[svg](/logo/icon-square-big.svg) | [png](/logo/icon-square-big.png) | [png](/logo/icon-square-big.jpg)
 
-*The icon is designed to be used in space-constrained areas. If possible, please prefer icon + text.*
+Square-sized icon without additional space (like favicons):
+
+<img src="/logo/icon-square-small.png?raw=true" width="50" alt="icon square small example">
+
+[svg](/logo/icon-square-small.svg) | [png](/logo/icon-square-small.png) | [png](/logo/icon-square-small.jpg)
 
 ## Font
 
