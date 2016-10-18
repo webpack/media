@@ -28,19 +28,19 @@ For dark backgrounds, you can use the negative version of the logo:
 
 <img src="/logo/icon.png?raw=true" width="250" alt="icon example">
 
-[svg](/logo/icon.svg) | [png](/logo/icon.png) | [png](/logo/icon.jpg)
+[svg](/logo/icon.svg) | [png](/logo/icon.png) | [jpg](/logo/icon.jpg)
 
 Square-sized icon (like avatars):
 
 <img src="/logo/icon-square-big.png?raw=true" width="250" alt="icon square big example">
 
-[svg](/logo/icon-square-big.svg) | [png](/logo/icon-square-big.png) | [png](/logo/icon-square-big.jpg)
+[svg](/logo/icon-square-big.svg) | [png](/logo/icon-square-big.png) | [jpg](/logo/icon-square-big.jpg)
 
 Square-sized icon without additional space (like favicons):
 
 <img src="/logo/icon-square-small.png?raw=true" width="50" alt="icon square small example">
 
-[svg](/logo/icon-square-small.svg) | [png](/logo/icon-square-small.png) | [png](/logo/icon-square-small.jpg)
+[svg](/logo/icon-square-small.svg) | [png](/logo/icon-square-small.png) | [jpg](/logo/icon-square-small.jpg)
 
 ## Font
 
