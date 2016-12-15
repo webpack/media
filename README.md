@@ -46,6 +46,11 @@ Square-sized icon for smaller areas (like favicons):
 
 [Geomanist Medium](http://geomanist.com/)
 
+## Color Palette
+
+[psd](/design/webpack-palette.png) | [png](/design/webpack-palette.psd)
+ | [ai](/design/webpack-palette.ai) | [svg](/design/webpack-palette.svg)
+
 ## License
 
 The logo and the brand name are **not MIT licensed**. Please check [our LICENSE](https://github.com/webpack/media/blob/master/LICENSE) for usage guidelines.
