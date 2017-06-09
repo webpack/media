@@ -48,7 +48,7 @@ Square-sized icon for smaller areas (like favicons):
 
 ## Color Palette
 
-[psd](/design/webpack-palette.png) | [png](/design/webpack-palette.psd)
+[psd](/design/webpack-palette.psd) | [png](/design/webpack-palette.png)
  | [ai](/design/webpack-palette.ai) | [svg](/design/webpack-palette.svg)
 
 ## License
