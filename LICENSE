@@ -1,11 +1,3 @@
-The logo and the brand name “webpack” are not part of the MIT license, and can only be used commercially by the webpack project on products, websites, and publications.
+The logo and the project name “webpack” are not part of the MIT license, and are trademarks of the JS Foundation.
 
-Under the following conditions, third parties may use the webpack logo as well:
-
-- The logo can only be used to point to the product webpack. When used with a link on a web page, it should point to the URL https://webpack.js.org/.
-- You will visualize and promote your own branding more prominent than you use the webpack logo. The webpack logo only can be used as a secondary brand, which means it has to be clear for an average viewer that this is not an official webpack website, publication or product.
-- You can use the webpack logo on promotion products, such as T-shirts or caps or trade show booths, provided it is a secondary brand as described in point 2.
-- The logo is used unaltered, without fancy enhancements, in original colors, original typography, and always complete (logo + text webpack).
-- In case you use the logo on products you sell commercially, you always have to contact us with a picture of how it will be used, and ask for explicit permission.
-
-If you have further questions or doubts, do not hesitate to contact us. You can create an issue at https://github.com/webpack/media or write an email to mail@johannesewald.de
+Use of the webpack name and logo are subject to the terms of the JS Foundation Trademark Policy which is available at https://js.foundation/about/governance/trademark-policy
