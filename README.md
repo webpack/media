@@ -4,7 +4,7 @@ Contains artwork, designs and images related to the webpack project.
 
 ## Name
 
-webpack should always be written in lower-case letters. Even at the beginning of a sentence.
+Webpack can be written with a capital W at the beginning of a sentence.
 
 ## Logo
 
